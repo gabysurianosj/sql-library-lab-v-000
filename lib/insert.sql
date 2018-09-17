@@ -6,3 +6,4 @@ INSERT INTO subgenres (name) VALUES ("Magic");
 
 INSERT INTO authors (name) VALUES ("JRR Tolkien");
 INSERT INTO authors (name) VALUES ('JK Rowling');
+
